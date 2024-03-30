@@ -1,4 +1,4 @@
-<h2 align="center">Bem vindo!</h2>
+<h1 align="center">Bem Vindo!</h1>
 
 ###
 
